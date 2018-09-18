@@ -105,15 +105,7 @@ public:
 		y = v.y;
 		z = v.z;
 	};
-
-
 };
-
-
-
-
-
-
 
 
 #endif // VEC3_H_
